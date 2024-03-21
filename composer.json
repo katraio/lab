@@ -8,7 +8,9 @@
             "email": "derek@katra.io"
         }
     ],
-    "require": {},
+    "require": {
+        "laravel/prompts": "^0.1.0"
+    },
     "autoload": {
         "psr-4": {
             "Katra\\Lab\\": "src/"
